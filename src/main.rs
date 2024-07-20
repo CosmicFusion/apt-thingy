@@ -4,6 +4,7 @@ use rust_apt::*;
 use duct::cmd;
 use regex::Regex;
 use std::fs;
+use std::path::Path;
 
 use clap::Parser;
 
@@ -215,8 +216,9 @@ fn get_depends_source_name(bin_pkg_name: String, bin_pkg_arch: String, output_fi
         .map(|pkg| format!("{pkg}"))
         .collect::<Vec<String>>()
         .join("\n");
-
-    fs::remove_file(&output_file_path).expect("File already exists and can't be removed");
+    if Path::new(&output_file_path).exists() {
+        fs::remove_file(&output_file_path).expect("File already exists and can't be removed");
+    }
     fs::write(output_file_path, encoded_depends_vec).expect("Could not write file");
 
     for depend in depends_vec.iter() {

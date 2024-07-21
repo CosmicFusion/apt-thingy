@@ -1,0 +1,7 @@
+gcc-13
+glew
+glfw3
+glibc
+libglvnd
+libx11
+mangohud

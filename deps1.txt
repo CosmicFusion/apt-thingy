@@ -1,0 +1,2223 @@
+acl
+adduser
+adwaita-icon-theme
+adwaita-icon-theme-full
+apt
+apt-transport-https
+aspell-dictionary
+at-spi2-common
+base-passwd
+blt
+bubblewrap
+cabextract
+ca-certificates
+cdebconf
+coreutils
+cpp
+cpp-13
+curl
+dbus-bin
+dbus-broker
+dbus-daemon
+dbus-session-bus
+dbus-session-bus-common
+dbus-system-bus
+dbus-system-bus-common
+dbus-user-session
+dbus-x11
+dconf-gsettings-backend
+dconf-service
+debconf
+debconf-2.0
+default-dbus-session-bus
+default-dbus-system-bus
+default-logind
+  Depends: acl
+  Depends: adduser
+  Depends: adwaita-icon-theme
+  Depends: adwaita-icon-theme (= 41.0-1ubuntu1)
+  Depends: adwaita-icon-theme-full
+  Depends: apt (>= 1.5~alpha4)
+  Depends: apt (>= 1.6)
+  Depends: apt-transport-https
+  Depends: aspell-dictionary
+  Depends: at-spi2-common
+  Depends: base-passwd (>= 3.6.1)
+  Depends: blt (>= 2.4z-9)
+  Depends: bubblewrap
+  Depends: bubblewrap (>= 0.3.1)
+  Depends: cabextract
+  Depends: ca-certificates
+  Depends: cdebconf
+  Depends: coreutils (>= 8.23-1~)
+  Depends: cpp
+  Depends: cpp-13 (>= 13.2.0-2~)
+  Depends: curl
+  Depends: dbus-bin (= 1.14.10-1ubuntu1)
+  Depends: dbus-broker
+  Depends: dbus-daemon (= 1.14.10-1ubuntu1)
+  Depends: dbus-session-bus
+  Depends: dbus-session-bus-common (>= 1.14.10-1ubuntu1)
+  Depends: dbus-system-bus
+  Depends: dbus-system-bus-common
+  Depends: dbus-user-session
+  Depends: dbus-x11
+  Depends: dconf-gsettings-backend
+  Depends: dconf-service (>= 0.40.0-4)
+  Depends: debconf
+  Depends: debconf (>= 0.5)
+  Depends: debconf (>= 1.5.19)
+  Depends: debconf-2.0
+  Depends: default-dbus-session-bus
+  Depends: default-dbus-system-bus
+  Depends: default-logind
+  Depends: dictionaries-common (>= 0.10)
+  Depends: dirmngr (= 2.2.40-1.1ubuntu1)
+  Depends: dirmngr (>= 2.2.40-1.1ubuntu1)
+  Depends: distro-info-data
+  Depends: dpkg (>= 1.13.20)
+  Depends: dpkg (>= 1.15.4)
+  Depends: emacsen-common
+  Depends: ffmpeg5
+  Depends: file
+  Depends: fluid-soundfont-gs
+  Depends: fontconfig
+  Depends: fontconfig (>= 2.13.0)
+  Depends: fontconfig-config
+  Depends: fontconfig-config (>= 2.14.2-4ubuntu1)
+  Depends: fonts-croscore
+  Depends: fonts-dejavu-core
+  Depends: fonts-dejavu-mono
+  Depends: fonts-freefont-otf
+  Depends: fonts-freefont-ttf
+  Depends: fonts-liberation
+  Depends: fonts-noto-core
+  Depends: fonts-noto-mono
+  Depends: fonts-texgyre
+  Depends: fonts-urw-base35
+  Depends: fuse3
+  Depends: gamin
+  Depends: gcc-13-base (= 13.2.0-4ubuntu3)
+  Depends: gir1.2-atk-1.0 (>= 2.35.1)
+  Depends: gir1.2-freedesktop
+  Depends: gir1.2-freedesktop (>= 0.9.5)
+  Depends: gir1.2-freedesktop (>= 1.39.0)
+  Depends: gir1.2-gdkpixbuf-2.0
+  Depends: gir1.2-gdkpixbuf-2.0 (>= 2.40.0)
+  Depends: gir1.2-glib-2.0
+  Depends: gir1.2-glib-2.0 (>= 0.9.12)
+  Depends: gir1.2-glib-2.0 (>= 0.9.3)
+  Depends: gir1.2-glib-2.0 (>= 0.9.5)
+  Depends: gir1.2-glib-2.0 (>= 1.39.0)
+  Depends: gir1.2-glib-2.0 (>= 1.64.0)
+  Depends: gir1.2-glib-2.0 (= 1.78.1-1)
+  Depends: gir1.2-gtk-3.0
+  Depends: gir1.2-harfbuzz-0.0 (>= 2.6.0)
+  Depends: gir1.2-javascriptcoregtk-4.0 (= 2.44.0-0ubuntu0.23.10.1)
+  Depends: gir1.2-javascriptcoregtk-4.1 (= 2.44.0-0ubuntu0.23.10.1)
+  Depends: gir1.2-notify-0.7
+  Depends: gir1.2-pango-1.0 (>= 1.44.0)
+  Depends: gir1.2-soup-2.4
+  Depends: gir1.2-soup-3.0
+  Depends: gir1.2-webkit2-4.0
+  Depends: gir1.2-webkit2-4.1
+  Depends: glib-networking (>= 2.32.0)
+  Depends: glib-networking-common (>= 2.78.0-1)
+  Depends: glib-networking-services (<< 2.78.0-1.1~)
+  Depends: gnome-terminal
+  Depends: gnome-terminal-data (>= 3.49)
+  Depends: gnupg (>= 2.1.21-4)
+  Depends: gnupg-l10n (= 2.2.40-1.1ubuntu1)
+  Depends: gnupg-utils (>= 2.2.40-1.1ubuntu1)
+  Depends: gpg
+  Depends: gpg (= 2.2.40-1.1ubuntu1)
+  Depends: gpg (>= 2.2.40-1.1ubuntu1)
+  Depends: gpg-agent (= 2.2.40-1.1ubuntu1)
+  Depends: gpg-agent (>= 2.2.40-1.1ubuntu1)
+  Depends: gpgconf (= 2.2.40-1.1ubuntu1)
+  Depends: gpgsm (>= 2.2.40-1.1ubuntu1)
+  Depends: gpgv
+  Depends: gpgv1
+  Depends: gpgv2
+  Depends: gpgv (>= 2.2.40-1.1ubuntu1)
+  Depends: gpg-wks-client (>= 2.2.40-1.1ubuntu1)
+  Depends: gpg-wks-server (>= 2.2.40-1.1ubuntu1)
+  Depends: gsettings-backend
+  Depends: gsettings-desktop-schemas
+  Depends: gsettings-desktop-schemas (>= 0.1.0)
+  Depends: gstreamer1.0-plugins-base
+  Depends: gstreamer1.0-plugins-base (>= 1.22.0)
+  Depends: gstreamer1.0-plugins-good
+  Depends: gstreamer1.0-plugins-good (>= 1.22.0)
+  Depends: gtk-update-icon-cache
+  Depends: hicolor-icon-theme
+  Depends: humanity-icon-theme
+  Depends: hunspell-dictionary
+  Depends: hunspell-en-us
+  Depends: init-system-helpers (>= 1.29~)
+  Depends: init-system-helpers (>= 1.52)
+  Depends: install-info
+  Depends: iso-codes
+  Depends: ispell-dictionary
+  Depends: kded5
+  Depends: kio
+  Depends: kio (>= 5.54)
+  Depends: konsole
+  Depends: konsole-kpart (= 4:23.08.3-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: kpackagetool5
+  Depends: kwayland-data (= 4:5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: liba52-0.7.4 (>= 0.7.4)
+  Depends: libaa1 (>= 1.4p5)
+  Depends: libacl1 (>= 2.2.23)
+  Depends: libacl1 (= 2.3.1-3)
+  Depends: libaom3 (>= 3.2.0)
+  Depends: libapparmor1 (>= 2.13)
+  Depends: libapparmor1 (>= 2.7.0~beta1+bzr1772)
+  Depends: libapparmor1 (>= 2.8.94)
+  Depends: libapparmor1 (>= 3.0)
+  Depends: libapt-pkg6.0 (>= 1.9.11~)
+  Depends: libapt-pkg6.0 (>= 2.7.3ubuntu0.1)
+  Depends: libarchive13 (>= 3.0.4)
+  Depends: libargon2-1 (>= 0~20171227)
+  Depends: libaribb24-0 (>= 1.0.3)
+  Depends: libasound2 (>= 1.0.16)
+  Depends: libasound2 (>= 1.0.17)
+  Depends: libasound2 (>= 1.0.27)
+  Depends: libasound2 (>= 1.2.1.1)
+  Depends: libasound2 (>= 1.2.5)
+  Depends: libasound2-data (>= 1.2.9-2)
+  Depends: libasound2-plugins
+  Depends: libaspell15 (>= 0.60.8)
+  Depends: libass9 (>= 1:0.13.6)
+  Depends: libassuan0 (>= 2.1.0)
+  Depends: libassuan0 (>= 2.4.2)
+  Depends: libassuan0 (>= 2.5.0)
+  Depends: libassuan0 (>= 2.5.1)
+  Depends: libasyncns0 (>= 0.3)
+  Depends: libatk1.0-0 (>= 1.12.4)
+  Depends: libatk1.0-0 (>= 1.32.0)
+  Depends: libatk1.0-0 (>= 2.33.1)
+  Depends: libatk1.0-0 (>= 2.35.1)
+  Depends: libatk1.0-0 (>= 2.49.90)
+  Depends: libatk-bridge2.0-0 (>= 2.15.1)
+  Depends: libatomic1 (>= 4.8)
+  Depends: libatspi2.0-0 (>= 2.9.90)
+  Depends: libaudit1 (>= 1:2.2.1)
+  Depends: libaudit-common (>= 1:3.1.1-1)
+  Depends: libavahi-client3 (>= 0.6.16)
+  Depends: libavahi-common3 (>= 0.6.16)
+  Depends: libavahi-common3 (= 0.8-10ubuntu1.1)
+  Depends: libavahi-common-data (= 0.8-10ubuntu1.1)
+  Depends: libavc1394-0 (>= 0.5.3)
+  Depends: libavcodec59 (>= 7:5.0)
+  Depends: libavcodec60 (>= 11:6.0.0)
+  Depends: libavcodec60 (>= 7:6.0)
+  Depends: libavdevice59 (>= 7:5.0)
+  Depends: libavdevice60 (>= 11:6.0.0)
+  Depends: libavfilter8 (>= 7:5.1)
+  Depends: libavfilter9 (>= 11:6.0.0)
+  Depends: libavfilter9 (>= 7:6.0)
+  Depends: libavformat59 (>= 7:5.0)
+  Depends: libavformat59 (>= 7:5.1)
+  Depends: libavformat60 (>= 11:6.0.0)
+  Depends: libavformat60 (>= 7:6.0)
+  Depends: libavtp0 (>= 0.2.0)
+  Depends: libavutil57 (>= 7:5.0)
+  Depends: libavutil57 (>= 7:5.1)
+  Depends: libavutil58 (>= 11:6.0.0)
+  Depends: libavutil58 (>= 7:6.0)
+  Depends: libblkid1 (>= 2.17.2)
+  Depends: libblkid1 (>= 2.24.2)
+  Depends: libblkid1 (>= 2.30.2)
+  Depends: libblkid1 (>= 2.37.2)
+  Depends: libbluray2 (>= 1:0.2.2)
+  Depends: libbrotli1 (>= 0.6.0)
+  Depends: libbs2b0 (>= 3.1.0+dfsg)
+  Depends: libbsd0 (>= 0.0)
+  Depends: libbsd0 (>= 0.1.3)
+  Depends: libbsd0 (>= 0.2.0)
+  Depends: libbsd0 (>= 0.5.0)
+  Depends: libbz2-1.0
+  Depends: libc6 (>= 2.14)
+  Depends: libc6 (>= 2.15)
+  Depends: libc6 (>= 2.16)
+  Depends: libc6 (>= 2.17)
+  Depends: libc6 (>= 2.2.5)
+  Depends: libc6 (>= 2.27)
+  Depends: libc6 (>= 2.28)
+  Depends: libc6 (>= 2.29)
+  Depends: libc6 (>= 2.32)
+  Depends: libc6 (>= 2.33)
+  Depends: libc6 (>= 2.34)
+  Depends: libc6 (>= 2.35)
+  Depends: libc6 (>= 2.36)
+  Depends: libc6 (>= 2.38)
+  Depends: libc6 (>= 2.4)
+  Depends: libc6 (>= 2.7)
+  Depends: libc6 (>= 2.8)
+  Depends: libcaca0 (>= 0.99.beta20)
+  Depends: libcairo2 (>= 1.10.0)
+  Depends: libcairo2 (>= 1.12.10)
+  Depends: libcairo2 (>= 1.14.0)
+  Depends: libcairo2 (>= 1.15.12)
+  Depends: libcairo2 (>= 1.17.8)
+  Depends: libcairo2 (>= 1.18.0)
+  Depends: libcairo2 (= 1.18.0-1)
+  Depends: libcairo2 (>= 1.2.4)
+  Depends: libcairo2 (>= 1.6.0)
+  Depends: libcairo-gobject2 (>= 1.10.0)
+  Depends: libcairo-gobject2 (>= 1.12.16)
+  Depends: libcairo-gobject2 (>= 1.14.0)
+  Depends: libcanberra0 (>= 0.2)
+  Depends: libcap2 (>= 1:2.10)
+  Depends: libcap2 (>= 1:2.63)
+  Depends: libcap2-bin
+  Depends: libcap-ng0 (>= 0.7.9)
+  Depends: libcdio19 (>= 2.1.0)
+  Depends: libcdio-cdda2 (>= 10.2+2.0.0)
+  Depends: libcdio-paranoia2 (>= 10.2+2.0.0)
+  Depends: libcdparanoia0 (>= 3.10.2+debian)
+  Depends: libchromaprint1 (>= 1.3.2)
+  Depends: libcjson1 (>= 1.7.5)
+  Depends: libcodec2-1.2 (>= 1.2.0)
+  Depends: libcolord2 (>= 0.1.10)
+  Depends: libcom-err2 (>= 1.43.9)
+  Depends: libcrypt1 (>= 1:4.1.0)
+  Depends: libcrypt1 (>= 1:4.3.0)
+  Depends: libcrypt1 (>= 1:4.4.0)
+  Depends: libcryptsetup12 (>= 2:2.4)
+  Depends: libcups2 (>= 1.4.0)
+  Depends: libcups2 (>= 2.3~b6)
+  Depends: libcurl3-gnutls (>= 7.16.2)
+  Depends: libcurl3-gnutls (>= 7.55.0)
+  Depends: libcurl4 (>= 7.16.2)
+  Depends: libcurl4 (= 8.2.1-1ubuntu3.3)
+  Depends: libd3dadapter9-mesa-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: libdatrie1 (>= 0.2.0)
+  Depends: libdav1d6 (>= 0.9.0)
+  Depends: libdb5.3
+  Depends: libdbus-1-3 (= 1.14.10-1ubuntu1)
+  Depends: libdbus-1-3 (>= 1.9.14)
+  Depends: libdbusmenu-qt5-2 (>= 0.3.2)
+  Depends: libdc1394-25 (>= 2.2.6)
+  Depends: libdca0 (>= 0.0.5)
+  Depends: libdconf1 (= 0.40.0-4)
+  Depends: libde265-0 (>= 0.9)
+  Depends: libdebconfclient0 (>= 0.145)
+  Depends: libdebian-installer4 (>= 0.124ubuntu1)
+  Depends: libdecor-0-0 (>= 0.1.0)
+  Depends: libdecor-0-0 (>= 0.1.1-2~)
+  Depends: libdeflate0 (>= 1.0)
+  Depends: libdevmapper1.02.1 (>= 2:1.02.97)
+  Depends: libdouble-conversion3 (>= 2.0.0)
+  Depends: libdrm2 (>= 2.3.1)
+  Depends: libdrm2 (>= 2.4.101)
+  Depends: libdrm2 (>= 2.4.108)
+  Depends: libdrm2 (>= 2.4.109)
+  Depends: libdrm2 (= 2.4.120+git2401140500.75254b~oibaf~m)
+  Depends: libdrm2 (>= 2.4.17)
+  Depends: libdrm2 (>= 2.4.25)
+  Depends: libdrm2 (>= 2.4.3)
+  Depends: libdrm2 (>= 2.4.46)
+  Depends: libdrm2 (>= 2.4.60)
+  Depends: libdrm2 (>= 2.4.62)
+  Depends: libdrm2 (>= 2.4.66)
+  Depends: libdrm2 (>= 2.4.75)
+  Depends: libdrm2 (>= 2.4.99)
+  Depends: libdrm-amdgpu1 (>= 2.4.110)
+  Depends: libdrm-amdgpu1 (>= 2.4.119)
+  Depends: libdrm-amdgpu1 (= 2.4.120+git2401140500.75254b~oibaf~m)
+  Depends: libdrm-amdgpu1 (>= 2.4.120+git2401140500.75254b~oibaf~m)
+  Depends: libdrm-common (>= 2.4.120+git2401140500.75254b~oibaf~m)
+  Depends: libdrm-dev (>= 2.4.95)
+  Depends: libdrm-intel1 (= 2.4.120+git2401140500.75254b~oibaf~m)
+  Depends: libdrm-intel1 (>= 2.4.38)
+  Depends: libdrm-intel1 (>= 2.4.46)
+  Depends: libdrm-nouveau2 (= 2.4.120+git2401140500.75254b~oibaf~m)
+  Depends: libdrm-nouveau2 (>= 2.4.66)
+  Depends: libdrm-radeon1 (= 2.4.120+git2401140500.75254b~oibaf~m)
+  Depends: libdrm-radeon1 (>= 2.4.31)
+  Depends: libduktape207 (>= 2.0.3)
+  Depends: libdv4 (>= 1.0.0)
+  Depends: libdvdnav4 (>= 4.1.3)
+  Depends: libdvdread8 (>= 4.1.3)
+  Depends: libdvdread8 (>= 6.1.0)
+  Depends: libdw1 (>= 0.126)
+  Depends: libedit2 (>= 2.11-20080614-0)
+  Depends: libegl1
+  Depends: libegl1 (>= 1.7.0-2101~22.04-pika20240328.pikauwu2)
+  Depends: libegl1-mesa-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: libegl1-mesa-git-dev (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: libegl-dev
+  Depends: libegl-dev (>= 1.3.0-1)
+  Depends: libegl-mesa0
+  Depends: libegl-mesa0-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: libelf1 (>= 0.142)
+  Depends: libelf1 (= 0.189-4)
+  Depends: libenchant-2-2 (>= 2.2.3)
+  Depends: libepoxy0 (>= 1.3)
+  Depends: libepoxy0 (>= 1.4.3)
+  Depends: libevdev2 (>= 1.10.0)
+  Depends: libevdev2 (>= 1.4.5)
+  Depends: libexif12 (>= 0.6.21-1~)
+  Depends: libexpat1 (>= 2.0.1)
+  Depends: libexpat1 (>= 2.1~beta3)
+  Depends: libfaad2 (>= 2.7)
+  Depends: libfam0
+  Depends: libfdisk1 (>= 2.33)
+  Depends: libfdk-aac2 (>= 2.0.1)
+  Depends: libffi8 (>= 3.4)
+  Depends: libfftw3-double3 (>= 3.3.10)
+  Depends: libflac12 (>= 1.3.0)
+  Depends: libflite1 (>= 1.4-release-9~)
+  Depends: libfluidsynth3 (>= 2.2.0)
+  Depends: libfontconfig1 (>= 2.12.6)
+  Depends: libfontconfig1 (>= 2.13.0)
+  Depends: libfontenc1 (>= 1:1.1.4)
+  Depends: libfreetype6 (>= 2.10.1)
+  Depends: libfreetype6 (>= 2.11.0)
+  Depends: libfreetype6 (>= 2.11.1)
+  Depends: libfreetype6 (>= 2.2.1)
+  Depends: libfreetype6 (>= 2.3.5)
+  Depends: libfreetype6 (>= 2.6)
+  Depends: libfreetype6 (>= 2.9.1)
+  Depends: libfribidi0 (>= 0.19.2)
+  Depends: libfribidi0 (>= 0.19.7)
+  Depends: libfribidi0 (>= 1.0.0)
+  Depends: libfribidi0 (>= 1.0.6)
+  Depends: libfuse3-3 (>= 3.12.0)
+  Depends: libfuse3-3 (= 3.14.0-4)
+  Depends: libgamin0
+  Depends: libgamin0 (= 0.1.10-6)
+  Depends: libgbm1 (>= 21.3.0~rc1)
+  Depends: libgbm1 (>= 24.1.0-devel.dg2-20240118-2102~22.04-pika20240328.pikauwu2)
+  Depends: libgbm1 (>= 8.1~0)
+  Depends: libgbm1-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: libgbm-git-dev (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: libgcc-s1
+  Depends: libgcc-s1 (>= 3.0)
+  Depends: libgcc-s1 (>= 3.3)
+  Depends: libgcc-s1 (>= 3.3.1)
+  Depends: libgcc-s1 (>= 3.4)
+  Depends: libgcc-s1 (>= 4.0)
+  Depends: libgcc-s1 (>= 4.2)
+  Depends: libgcc-s1 (>= 4.3)
+  Depends: libgcc-s1 (>= 7)
+  Depends: libgcrypt20 (>= 1.10.0)
+  Depends: libgd3 (>= 2.1.0~alpha~)
+  Depends: libgdbm6 (>= 1.16)
+  Depends: libgdbm6 (>= 1.21)
+  Depends: libgdbm-compat4 (>= 1.18-3)
+  Depends: libgdk-pixbuf-2.0-0 (>= 2.22.0)
+  Depends: libgdk-pixbuf-2.0-0 (>= 2.31.1)
+  Depends: libgdk-pixbuf-2.0-0 (>= 2.39.2)
+  Depends: libgdk-pixbuf-2.0-0 (>= 2.40.0)
+  Depends: libgdk-pixbuf2.0-common (>= 2.42.10+dfsg-1build1)
+  Depends: libgif7 (>= 5.1)
+  Depends: libgirepository-1.0-1 (>= 1.71.0)
+  Depends: libgirepository-1.0-1 (>= 1.75.6)
+  Depends: libgirepository-1.0-1-with-libffi8 (>= 1.64.0~)
+  Depends: libgl1
+  Depends: libgl1 (>= 1.7.0-2101~22.04-pika20240328.pikauwu2)
+  Depends: libgl1-mesa-dri
+  Depends: libgl1-mesa-dri-git
+  Depends: libgl1-mesa-dri-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: libgl1-mesa-glx-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: libglapi-mesa (>= 24.1.0-devel.dg2-20240118-2102~22.04-pika20240328.pikauwu2)
+  Depends: libglapi-mesa-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: libgl-dev
+  Depends: libgl-dev (>= 1.3.0-1)
+  Depends: libgles1 (>= 1.7.0-2101~22.04-pika20240328.pikauwu2)
+  Depends: libgles2
+  Depends: libgles2 (>= 1.7.0-2101~22.04-pika20240328.pikauwu2)
+  Depends: libgles2-mesa-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: libgles-dev (>= 1.3.0-1)
+  Depends: libglib2.0-0 (>= 2.12.0)
+  Depends: libglib2.0-0 (>= 2.16.0)
+  Depends: libglib2.0-0 (>= 2.22.0)
+  Depends: libglib2.0-0 (>= 2.24.0)
+  Depends: libglib2.0-0 (>= 2.28.0)
+  Depends: libglib2.0-0 (>= 2.32.0)
+  Depends: libglib2.0-0 (>= 2.34.0)
+  Depends: libglib2.0-0 (>= 2.35.9)
+  Depends: libglib2.0-0 (>= 2.36.0)
+  Depends: libglib2.0-0 (>= 2.37.3)
+  Depends: libglib2.0-0 (>= 2.38.0)
+  Depends: libglib2.0-0 (>= 2.40.0)
+  Depends: libglib2.0-0 (>= 2.41.1)
+  Depends: libglib2.0-0 (>= 2.50.0)
+  Depends: libglib2.0-0 (>= 2.51.1)
+  Depends: libglib2.0-0 (>= 2.54.0)
+  Depends: libglib2.0-0 (>= 2.55.1)
+  Depends: libglib2.0-0 (>= 2.55.2)
+  Depends: libglib2.0-0 (>= 2.57.2)
+  Depends: libglib2.0-0 (>= 2.58)
+  Depends: libglib2.0-0 (>= 2.59.0)
+  Depends: libglib2.0-0 (>= 2.61.2)
+  Depends: libglib2.0-0 (>= 2.62)
+  Depends: libglib2.0-0 (>= 2.62.0)
+  Depends: libglib2.0-0 (>= 2.64.0)
+  Depends: libglib2.0-0 (>= 2.66.0)
+  Depends: libglib2.0-0 (>= 2.67.3)
+  Depends: libglib2.0-0 (>= 2.68.0)
+  Depends: libglib2.0-0 (>= 2.70)
+  Depends: libglib2.0-0 (>= 2.70.0)
+  Depends: libglib2.0-0 (>= 2.73.3)
+  Depends: libglib2.0-0 (>= 2.75.0)
+  Depends: libglib2.0-0 (>= 2.75.3)
+  Depends: libglib2.0-0 (>= 2.77.0)
+  Depends: libglib2.0-0 (>= 2.77.3)
+  Depends: libglib2.0-0 (>= 2.78.0)
+  Depends: libglvnd0 (>= 1.7.0-2101~22.04-pika20240328.pikauwu2)
+  Depends: libglvnd-core-dev (>= 1.7.0-2101~22.04-pika20240328.pikauwu2)
+  Depends: libglvnd-dev
+  Depends: libglx0 (>= 1.7.0-2101~22.04-pika20240328.pikauwu2)
+  Depends: libglx-dev
+  Depends: libglx-dev (>= 1.3.0-1)
+  Depends: libglx-mesa0
+  Depends: libglx-mesa0-git
+  Depends: libglx-mesa0-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: libgme0 (>= 0.5.5)
+  Depends: libgme0 (>= 0.6.0)
+  Depends: libgmp10 (>= 2:6.2.1+dfsg)
+  Depends: libgmp10 (>= 2:6.2.1+dfsg1)
+  Depends: libgmp10 (>= 2:6.3.0+dfsg)
+  Depends: libgnutls30 (>= 3.7.0)
+  Depends: libgnutls30 (>= 3.7.2)
+  Depends: libgnutls30 (>= 3.7.5)
+  Depends: libgnutls30 (>= 3.8.1)
+  Depends: libgomp1 (>= 4.9)
+  Depends: libgpg-error0 (>= 1.14)
+  Depends: libgpg-error0 (>= 1.16)
+  Depends: libgpg-error0 (>= 1.27)
+  Depends: libgpg-error0 (>= 1.33)
+  Depends: libgpg-error0 (>= 1.36)
+  Depends: libgpg-error0 (>= 1.42)
+  Depends: libgpg-error0 (>= 1.46)
+  Depends: libgpgme11 (>= 1.17.1)
+  Depends: libgpgmepp6 (>= 1.18.0)
+  Depends: libgphoto2-6 (>= 2.5.10)
+  Depends: libgphoto2-port12 (>= 2.5.10)
+  Depends: libgphoto2-port12 (>= 2.5.30)
+  Depends: libgpm2 (>= 1.20.7)
+  Depends: libgraphite2-3 (>= 1.2.2)
+  Depends: libgsm1 (>= 1.0.18)
+  Depends: libgssapi-krb5-2 (>= 1.17)
+  Depends: libgssdp-1.6-0 (>= 1.6)
+  Depends: libgssdp-1.6-0 (>= 1.6.2)
+  Depends: libgstreamer1.0-0 (>= 1.22.0)
+  Depends: libgstreamer1.0-0 (>= 1.4.0)
+  Depends: libgstreamer-gl1.0-0 (>= 1.14.0)
+  Depends: libgstreamer-gl1.0-0 (>= 1.22.0)
+  Depends: libgstreamer-plugins-bad1.0-0 (= 1.22.4-1ubuntu1.1)
+  Depends: libgstreamer-plugins-base1.0-0 (>= 1.0.0)
+  Depends: libgstreamer-plugins-base1.0-0 (>= 1.18.0)
+  Depends: libgstreamer-plugins-base1.0-0 (>= 1.20.0)
+  Depends: libgstreamer-plugins-base1.0-0 (>= 1.22.0)
+  Depends: libgstreamer-plugins-good1.0-0 (>= 1.22.6)
+  Depends: libgstreamer-plugins-good1.0-0 (= 1.22.6-1ubuntu1)
+  Depends: libgtk-3-0 (>= 3.15.0)
+  Depends: libgtk-3-0 (>= 3.19.12)
+  Depends: libgtk-3-0 (>= 3.21.5)
+  Depends: libgtk-3-0 (>= 3.23.0)
+  Depends: libgtk-3-0 (>= 3.23.1)
+  Depends: libgtk-3-0 (>= 3.24.22)
+  Depends: libgtk-3-0 (>= 3.24.30)
+  Depends: libgtk-3-common
+  Depends: libgtk-3-common (>= 3.24.38-5ubuntu1)
+  Depends: libgudev-1.0-0 (>= 146)
+  Depends: libgudev-1.0-0 (>= 147)
+  Depends: libgudev-1.0-0 (>= 165)
+  Depends: libgupnp-1.6-0 (>= 1.6.0)
+  Depends: libgupnp-igd-1.6-0 (>= 0.2.4)
+  Depends: libhandy-1-0 (>= 1.5.0)
+  Depends: libharfbuzz0b (>= 0.9.4)
+  Depends: libharfbuzz0b (>= 1.2.6)
+  Depends: libharfbuzz0b (>= 1.4.2)
+  Depends: libharfbuzz0b (>= 1.6.0)
+  Depends: libharfbuzz0b (>= 2.2.0)
+  Depends: libharfbuzz0b (>= 2.6.0)
+  Depends: libharfbuzz0b (>= 5.1.0)
+  Depends: libharfbuzz0b (>= 5.2)
+  Depends: libharfbuzz0b (>= 7.3.0)
+  Depends: libharfbuzz0b (>= 8.0.0)
+  Depends: libharfbuzz-icu0 (>= 0.9.9)
+  Depends: libhogweed6
+  Depends: libhogweed6 (>= 3.6)
+  Depends: libhunspell-1.7-0
+  Depends: libhyphen0 (>= 2.7.1)
+  Depends: libice6 (>= 1:1.0.0)
+  Depends: libicu72 (>= 72.1~rc-1~)
+  Depends: libidn2-0 (>= 0.16)
+  Depends: libidn2-0 (>= 0.6)
+  Depends: libidn2-0 (>= 2.0.0)
+  Depends: libiec61883-0 (>= 1.2.0)
+  Depends: libieee1284-3 (>= 0.2.11)
+  Depends: libigdgmm12 (>= 23.3.12)
+  Depends: libimagequant0 (>= 2.11.10)
+  Depends: libimath-3-1-29 (>= 3.1.6)
+  Depends: libimobiledevice6 (>= 1.3.0)
+  Depends: libinput10 (>= 0.15.0)
+  Depends: libinput-bin (>= 1.24.0-99pika2)
+  Depends: libinstpatch-1.0-2 (>= 1.1.2)
+  Depends: libip4tc2 (>= 1.8.3)
+  Depends: libisl23 (>= 0.15)
+  Depends: libjack-0.125
+  Depends: libjack-jackd2-0 (>= 1.9.10+20150825)
+  Depends: libjansson4 (>= 2.14)
+  Depends: libjavascriptcoregtk-4.0-18 (= 2.44.0-0ubuntu0.23.10.1)
+  Depends: libjavascriptcoregtk-4.1-0 (= 2.44.0-0ubuntu0.23.10.1)
+  Depends: libjbig0 (>= 2.0)
+  Depends: libjpeg8 (>= 8c)
+  Depends: libjpeg-turbo8 (>= 1.1.90+svn722-1ubuntu6)
+  Depends: libjson-c5 (>= 0.15)
+  Depends: libjson-glib-1.0-0 (>= 1.5.2)
+  Depends: libjson-glib-1.0-common (>= 1.8.0-1)
+  Depends: libk5crypto3 (>= 1.20)
+  Depends: libkate1 (>= 0.4.1)
+  Depends: libkeyutils1 (>= 1.5.9)
+  Depends: libkf5archive5 (>= 5.112.0~)
+  Depends: libkf5archive-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5attica5 (>= 5.112.0~)
+  Depends: libkf5authcore5 (>= 5.112.0~)
+  Depends: libkf5auth-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5bookmarks5 (>= 5.112.0~)
+  Depends: libkf5bookmarks5 (>= 5.71.0~)
+  Depends: libkf5bookmarks-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5codecs5 (>= 5.112.0~)
+  Depends: libkf5codecs-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5completion5 (>= 5.112.0~)
+  Depends: libkf5completion-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5configcore5 (>= 4.97.0)
+  Depends: libkf5configcore5 (>= 5.102.0~)
+  Depends: libkf5configcore5 (>= 5.112.0~)
+  Depends: libkf5configcore5 (>= 5.71.0~)
+  Depends: libkf5configcore5 (>= 5.74.0)
+  Depends: libkf5config-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5configgui5 (>= 5.102.0~)
+  Depends: libkf5configgui5 (>= 5.112.0~)
+  Depends: libkf5configgui5 (>= 5.71.0~)
+  Depends: libkf5configwidgets5 (>= 5.103.0)
+  Depends: libkf5configwidgets5 (>= 5.112.0~)
+  Depends: libkf5configwidgets5 (>= 5.83.0)
+  Depends: libkf5configwidgets-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5coreaddons5 (>= 5.102.0~)
+  Depends: libkf5coreaddons5 (>= 5.112.0~)
+  Depends: libkf5coreaddons5 (>= 5.95.0)
+  Depends: libkf5coreaddons5 (>= 5.97.0)
+  Depends: libkf5coreaddons-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5crash5 (>= 5.112.0~)
+  Depends: libkf5crash5 (>= 5.71.0~)
+  Depends: libkf5dbusaddons5 (>= 5.112.0~)
+  Depends: libkf5dbusaddons5 (>= 5.71.0~)
+  Depends: libkf5dbusaddons-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5doctools5 (>= 5.112.0~)
+  Depends: libkf5globalaccel5 (>= 5.102.0~)
+  Depends: libkf5globalaccel5 (>= 5.112.0~)
+  Depends: libkf5globalaccel5 (>= 5.71.0~)
+  Depends: libkf5globalaccel5 (>= 5.96.0)
+  Depends: libkf5globalaccel-bin
+  Depends: libkf5globalaccel-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5globalaccelprivate5 (>= 5.94.0)
+  Depends: libkf5guiaddons5 (>= 5.112.0~)
+  Depends: libkf5guiaddons5 (>= 5.71.0~)
+  Depends: libkf5guiaddons-bin
+  Depends: libkf5guiaddons-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5i18n5 (>= 5.102.0~)
+  Depends: libkf5i18n5 (>= 5.112.0~)
+  Depends: libkf5i18n5 (>= 5.71.0~)
+  Depends: libkf5i18n-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5iconthemes5 (>= 5.102.0~)
+  Depends: libkf5iconthemes5 (>= 5.112.0~)
+  Depends: libkf5iconthemes5 (>= 5.71.0~)
+  Depends: libkf5iconthemes-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5itemviews5 (>= 4.96.0)
+  Depends: libkf5itemviews5 (>= 5.112.0~)
+  Depends: libkf5itemviews-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5jobwidgets5 (>= 4.96.0)
+  Depends: libkf5jobwidgets5 (>= 5.112.0~)
+  Depends: libkf5jobwidgets5 (>= 5.70.0)
+  Depends: libkf5jobwidgets-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5kiocore5 (>= 5.100.0)
+  Depends: libkf5kiocore5 (>= 5.101.0)
+  Depends: libkf5kiocore5 (>= 5.102.0~)
+  Depends: libkf5kiocore5 (>= 5.112.0~)
+  Depends: libkf5kiocore5 (>= 5.80.0)
+  Depends: libkf5kiocore5 (>= 5.98.0)
+  Depends: libkf5kiocore5 (>= 5.99.0)
+  Depends: libkf5kiofilewidgets5 (>= 5.102.0~)
+  Depends: libkf5kiogui5 (>= 5.102.0~)
+  Depends: libkf5kiogui5 (>= 5.109.0)
+  Depends: libkf5kiogui5 (>= 5.112.0~)
+  Depends: libkf5kiogui5 (>= 5.69.0)
+  Depends: libkf5kiogui5 (>= 5.71.0)
+  Depends: libkf5kiogui5 (>= 5.95.0)
+  Depends: libkf5kiontlm5 (>= 4.96.0)
+  Depends: libkf5kiowidgets5 (>= 4.96.0)
+  Depends: libkf5kiowidgets5 (>= 5.100.0)
+  Depends: libkf5kiowidgets5 (>= 5.102.0~)
+  Depends: libkf5kiowidgets5 (>= 5.112.0~)
+  Depends: libkf5kiowidgets5 (>= 5.71.0~)
+  Depends: libkf5kiowidgets5 (>= 5.82.0)
+  Depends: libkf5newstuff5 (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5newstuffcore5 (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5newstuffcore5 (>= 5.71.0~)
+  Depends: libkf5newstuff-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5newstuffwidgets5 (>= 5.111.0)
+  Depends: libkf5notifications5 (>= 5.102.0~)
+  Depends: libkf5notifications5 (>= 5.112.0~)
+  Depends: libkf5notifications5 (>= 5.90.0)
+  Depends: libkf5notifications-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5notifyconfig5 (>= 5.71.0~)
+  Depends: libkf5notifyconfig-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5package5 (>= 5.112.0~)
+  Depends: libkf5package5 (>= 5.21.0)
+  Depends: libkf5package-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5parts5 (>= 5.71.0~)
+  Depends: libkf5parts-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5pty5 (>= 5.97.0)
+  Depends: libkf5pty-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5service5 (>= 5.102.0)
+  Depends: libkf5service5 (>= 5.112.0~)
+  Depends: libkf5service5 (>= 5.61.0)
+  Depends: libkf5service5 (>= 5.71.0~)
+  Depends: libkf5service-bin
+  Depends: libkf5service-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5solid5 (>= 5.112.0~)
+  Depends: libkf5solid5-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5sonnet5-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5sonnetcore5 (>= 5.112.0~)
+  Depends: libkf5sonnetcore5 (>= 5.69.0)
+  Depends: libkf5sonnetui5 (>= 5.112.0~)
+  Depends: libkf5syndication5abi1 (>= 1:5.112.0~)
+  Depends: libkf5textwidgets5 (>= 5.112.0~)
+  Depends: libkf5textwidgets5 (>= 5.71.0~)
+  Depends: libkf5textwidgets-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5wallet5 (>= 4.96.0)
+  Depends: libkf5wallet5 (>= 5.112.0~)
+  Depends: libkf5wallet-bin
+  Depends: libkf5wallet-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5waylandclient5 (>= 4:5.102.0~)
+  Depends: libkf5widgetsaddons5 (>= 5.100.0)
+  Depends: libkf5widgetsaddons5 (>= 5.112.0~)
+  Depends: libkf5widgetsaddons-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5windowsystem5 (>= 5.101.0)
+  Depends: libkf5windowsystem5 (>= 5.102.0~)
+  Depends: libkf5windowsystem5 (>= 5.112.0~)
+  Depends: libkf5windowsystem-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkf5xmlgui5 (>= 5.112.0~)
+  Depends: libkf5xmlgui5 (>= 5.71.0~)
+  Depends: libkf5xmlgui-data (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkmod2 (>= 15)
+  Depends: libkrb5-3 (= 1.20.1-3ubuntu1)
+  Depends: libkrb5support0 (= 1.20.1-3ubuntu1)
+  Depends: libksba8 (>= 1.3.5)
+  Depends: libksba8 (>= 1.6.0)
+  Depends: libkwalletbackend5-5 (= 5.112.0-0ubuntu1~ubuntu23.10~ppa1)
+  Depends: libkwalletbackend5-5 (>= 5.97.0)
+  Depends: liblcms2-2 (>= 2.2+git20110628)
+  Depends: liblcms2-2 (>= 2.6)
+  Depends: liblcms2-2 (>= 2.7)
+  Depends: libldacbt-enc2 (>= 2.0.2)
+  Depends: libldap2 (>= 2.6.2)
+  Depends: libldb2 (>= 2:2.7.2)
+  Depends: liblept5 (>= 1.75.3)
+  Depends: liblerc4 (>= 3.0)
+  Depends: liblilv-0-0 (>= 0.14.2~dfsg0)
+  Depends: liblilv-0-0 (>= 0.22)
+  Depends: libllvm15
+  Depends: libllvm17
+  Depends: liblmdb0 (>= 0.9.9)
+  Depends: libltdl7 (>= 2.4.7)
+  Depends: liblz4-1 (>= 0.0~r122)
+  Depends: liblz4-1 (>= 0.0~r127)
+  Depends: liblz4-1 (>= 0.0~r130)
+  Depends: liblzma5 (>= 5.1.1alpha+20110809)
+  Depends: liblzma5 (>= 5.1.1alpha+20120614)
+  Depends: liblzma5 (>= 5.2.2)
+  Depends: liblzma5 (>= 5.4.0)
+  Depends: libmagic1 (>= 1:5.39)
+  Depends: libmagic1 (= 1:5.44-3)
+  Depends: libmagic-mgc (= 1:5.44-3)
+  Depends: libmanette-0.2-0 (>= 0.1.2)
+  Depends: libmbedcrypto7 (>= 2.28.0)
+  Depends: libmd0 (>= 1.0.3-2)
+  Depends: libmd4c0 (>= 0.2.7)
+  Depends: libmesa-git
+  Depends: libmfx1 (>= 18.4.0)
+  Depends: libmjpegutils-2.1-0 (>= 1:2.1.0+debian)
+  Depends: libmodplug1 (>= 1:0.8.8.5)
+  Depends: libmount1 (>= 2.19.1)
+  Depends: libmount1 (>= 2.24.2)
+  Depends: libmount1 (>= 2.30)
+  Depends: libmount1 (>= 2.35.2-7~)
+  Depends: libmp3lame0 (>= 3.100)
+  Depends: libmpc3 (>= 1.1.0)
+  Depends: libmpcdec6 (>= 1:0.1~r435)
+  Depends: libmpeg2-4 (>= 0.5.1)
+  Depends: libmpeg2encpp-2.1-0 (>= 1:2.1.0+debian)
+  Depends: libmpfr6 (>= 3.1.3)
+  Depends: libmpfr6 (>= 4.0.0)
+  Depends: libmpg123-0 (>= 1.28.0)
+  Depends: libmplex2-2.1-0 (>= 1:2.1.0+debian)
+  Depends: libmspack0 (>= 0.9.1-1)
+  Depends: libmtdev1 (>= 1.0.8)
+  Depends: libmtdev1 (>= 1.1.0)
+  Depends: libmysofa1 (>= 0.7~)
+  Depends: libncurses
+  Depends: libncurses5
+  Depends: libncurses6
+  Depends: libncurses6 (>= 6)
+  Depends: libncursesw6 (>= 6)
+  Depends: libncursesw6 (>= 6.1)
+  Depends: libnettle8
+  Depends: libnettle8 (>= 3)
+  Depends: libnettle8 (>= 3.7~)
+  Depends: libnewt0.52 (>= 0.52.23)
+  Depends: libnghttp2-14 (>= 1.50.0)
+  Depends: libnice10 (>= 0.1.21)
+  Depends: libnorm1 (>= 1.5r6)
+  Depends: libnotify4 (>= 0.7.0)
+  Depends: libnotify4 (>= 0.7.10)
+  Depends: libnppc12 (= 12.0.1.104~12.0.1-2)
+  Depends: libnppicc12
+  Depends: libnppidei12
+  Depends: libnppif12
+  Depends: libnppig12
+  Depends: libnpth0 (>= 0.90)
+  Depends: libnsl2 (>= 1.0)
+  Depends: libnspr4 (>= 2:4.34)
+  Depends: libnspr4 (>= 2:4.9-2~)
+  Depends: libnss3 (>= 2:3.15)
+  Depends: libnss3 (>= 2:3.16)
+  Depends: libnss3 (>= 2:3.26)
+  Depends: libnuma1 (>= 2.0.11)
+  Depends: libnvidia-common-555
+  Depends: libodbc2 (>= 2.3.1)
+  Depends: libogg0 (>= 1.0rc3)
+  Depends: libogg0 (>= 1.1.0)
+  Depends: libogg0 (>= 1.3.0)
+  Depends: libopenal1 (>= 1:1.14)
+  Depends: libopenal1 (>= 1.14)
+  Depends: libopenal-data (= 1:1.23.1-3)
+  Depends: libopencl1
+  Depends: libopencl-1.2-1
+  Depends: libopencore-amrnb0 (>= 0.1.6)
+  Depends: libopencore-amrwb0 (>= 0.1.6)
+  Depends: libopenexr-3-1-30 (>= 3.1.5)
+  Depends: libopengl0 (>= 1.7.0-2101~22.04-pika20240328.pikauwu2)
+  Depends: libopengl-dev (>= 1.3.0-1)
+  Depends: libopenh264-7 (>= 2.3.1+dfsg)
+  Depends: libopenjp2-7 (>= 2.0.0)
+  Depends: libopenjp2-7 (>= 2.2.0)
+  Depends: libopenjp2-7 (>= 2.4.0)
+  Depends: libopenmpt0 (>= 0.3.0)
+  Depends: libopenmpt0 (>= 0.5.10)
+  Depends: libopus0 (>= 1.1)
+  Depends: libopus0 (>= 1.3.1-2~)
+  Depends: liborc-0.4-0 (>= 1:0.4.34)
+  Depends: libosmesa6-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: libp11-kit0 (>= 0.25.0)
+  Depends: libpam0g (>= 0.99.7.1)
+  Depends: libpam-modules
+  Depends: libpam-modules (>= 1.0.1-6)
+  Depends: libpam-runtime
+  Depends: libpam-systemd
+  Depends: libpango-1.0-0 (>= 1.14.0)
+  Depends: libpango-1.0-0 (>= 1.22.0)
+  Depends: libpango-1.0-0 (>= 1.44.3)
+  Depends: libpango-1.0-0 (>= 1.45.5)
+  Depends: libpango-1.0-0 (>= 1.48.11)
+  Depends: libpango-1.0-0 (= 1.51.0+ds-2)
+  Depends: libpangocairo-1.0-0 (>= 1.22)
+  Depends: libpangocairo-1.0-0 (>= 1.22.0)
+  Depends: libpangocairo-1.0-0 (>= 1.44.0)
+  Depends: libpangocairo-1.0-0 (>= 1.48.11)
+  Depends: libpangocairo-1.0-0 (= 1.51.0+ds-2)
+  Depends: libpangoft2-1.0-0 (>= 1.44.0)
+  Depends: libpangoft2-1.0-0 (= 1.51.0+ds-2)
+  Depends: libpangoxft-1.0-0 (= 1.51.0+ds-2)
+  Depends: libpcap0.8 (>= 1.10.0)
+  Depends: libpci3 (>= 1:3.5.1)
+  Depends: libpciaccess0
+  Depends: libpciaccess0 (= 0.17-2)
+  Depends: libpciaccess-dev
+  Depends: libpcre2-16-0 (>= 10.22)
+  Depends: libpcre2-8-0 (>= 10.22)
+  Depends: libpcsclite1 (>= 1.3.3)
+  Depends: libperl5.36 (>= 5.36.0)
+  Depends: libperl5.36 (= 5.36.0-9ubuntu1.1)
+  Depends: libpgm-5.3-0 (>= 5.1.116~dfsg)
+  Depends: libpipewire-0.3-0 (>= 0.3.1)
+  Depends: libpixman-1-0 (>= 0.40.0)
+  Depends: libplacebo292 (>= 6.292.0)
+  Depends: libplist3 (>= 2.2.0)
+  Depends: libpng16-16 (>= 1.6.2-1)
+  Depends: libpolkit-agent-1-0 (>= 0.99)
+  Depends: libpolkit-agent-1-0 (= 123-1)
+  Depends: libpolkit-gobject-1-0 (>= 0.105-12~)
+  Depends: libpolkit-gobject-1-0 (= 123-1)
+  Depends: libpolkit-qt5-1-1 (>= 0.113.0)
+  Depends: libpoppler130 (= 23.08.0-2ubuntu1)
+  Depends: libpoppler-glib8 (>= 0.85.0)
+  Depends: libpopt0 (>= 1.14)
+  Depends: libpostproc56 (>= 7:5.0)
+  Depends: libpostproc57 (>= 11:6.0.0)
+  Depends: libproc2-0 (>= 2:4.0.3)
+  Depends: libproxy1v5 (>= 0.4.18)
+  Depends: libpsl5 (>= 0.16.0)
+  Depends: libpsl5 (>= 0.20)
+  Depends: libpthread-stubs0-dev
+  Depends: libpulse0 (>= 0.99.1)
+  Depends: libpulse0 (>= 0.99.1-1~)
+  Depends: libpulse0 (>= 2.0)
+  Depends: libpython3.11-minimal (= 3.11.6-3)
+  Depends: libpython3.11-stdlib (>= 3.11.4-1~)
+  Depends: libpython3.11-stdlib (= 3.11.6-3)
+  Depends: libpython3-stdlib (= 3.11.4-5)
+  Depends: libqca-qt5-2 (>= 2.3.1~)
+  Depends: libqt5core5a (>= 5.12.2)
+  Depends: libqt5core5a (>= 5.15.1)
+  Depends: libqt5core5a (>= 5.15.10+dfsg~)
+  Depends: libqt5core5a (>= 5.15.2~)
+  Depends: libqt5dbus5 (>= 5.0.2)
+  Depends: libqt5dbus5 (>= 5.14.1)
+  Depends: libqt5dbus5 (>= 5.15.0~)
+  Depends: libqt5dbus5 (>= 5.15.10+dfsg~)
+  Depends: libqt5dbus5 (>= 5.15.2~)
+  Depends: libqt5dbus5 (>= 5.5.0~)
+  Depends: libqt5gui5 (>= 5.0.2)
+  Depends: libqt5gui5 (>= 5.14.1)
+  Depends: libqt5gui5 (>= 5.15.0~)
+  Depends: libqt5gui5 (>= 5.15.1)
+  Depends: libqt5gui5 (>= 5.15.10+dfsg~)
+  Depends: libqt5gui5 (>= 5.15.2~)
+  Depends: libqt5gui5 (>= 5.5.0~)
+  Depends: libqt5gui5-gles (>= 5.0.2)
+  Depends: libqt5gui5-gles (>= 5.14.1)
+  Depends: libqt5gui5-gles (>= 5.15.0~)
+  Depends: libqt5gui5-gles (>= 5.15.1)
+  Depends: libqt5gui5-gles (>= 5.15.10+dfsg~)
+  Depends: libqt5gui5-gles (>= 5.15.2~)
+  Depends: libqt5gui5-gles (>= 5.5.0~)
+  Depends: libqt5multimedia5 (>= 5.6.0~beta)
+  Depends: libqt5network5 (>= 5.0.2)
+  Depends: libqt5network5 (>= 5.14.1)
+  Depends: libqt5network5 (>= 5.15.0~)
+  Depends: libqt5network5 (>= 5.15.1)
+  Depends: libqt5network5 (>= 5.15.10+dfsg~)
+  Depends: libqt5network5 (>= 5.15.2~)
+  Depends: libqt5printsupport5 (>= 5.15.0~)
+  Depends: libqt5printsupport5 (>= 5.15.2~)
+  Depends: libqt5qml5 (>= 5.15.1)
+  Depends: libqt5qml5 (>= 5.15.2~)
+  Depends: libqt5qmlmodels5 (>= 5.14.1)
+  Depends: libqt5quick5 (>= 5.15.2~)
+  Depends: libqt5quick5-gles (>= 5.15.2~)
+  Depends: libqt5svg5 (>= 5.15.2~)
+  Depends: libqt5texttospeech5 (>= 5.8.0~alpha)
+  Depends: libqt5waylandclient5 (>= 5.15.2~)
+  Depends: libqt5waylandclient5 (>= 5.15.4)
+  Depends: libqt5widgets5 (>= 5.0.2)
+  Depends: libqt5widgets5 (>= 5.15.0~)
+  Depends: libqt5widgets5 (>= 5.15.1)
+  Depends: libqt5widgets5 (>= 5.15.10+dfsg~)
+  Depends: libqt5widgets5 (>= 5.15.2~)
+  Depends: libqt5widgets5 (>= 5.2.0)
+  Depends: libqt5widgets5 (>= 5.5.0~)
+  Depends: libqt5x11extras5 (>= 5.15.2~)
+  Depends: libqt5xml5 (>= 5.15.0~)
+  Depends: libqt5xml5 (>= 5.15.2~)
+  Depends: librabbitmq4 (>= 0.6.0)
+  Depends: libraqm0 (>= 0.7.0)
+  Depends: libraw1394-11 (>= 2.1.2)
+  Depends: libreadline8 (>= 6.0)
+  Depends: libreadline8 (>= 7.0~beta)
+  Depends: librist4 (>= 0.2.6+dfsg)
+  Depends: librsvg2-2 (>= 2.14.4)
+  Depends: librsvg2-2 (>= 2.36.2)
+  Depends: librtmp1 (>= 2.3)
+  Depends: librubberband2 (>= 3.3.0+dfsg)
+  Depends: libsamplerate0 (>= 0.1.7)
+  Depends: libsane1 (>= 1.0.27)
+  Depends: libsane-common (= 1.2.1-5)
+  Depends: libsasl2-2 (>= 2.1.28+dfsg1)
+  Depends: libsasl2-modules-db (>= 2.1.28+dfsg1-3)
+  Depends: libsbc1 (>= 2.0)
+  Depends: libsdl2-2.0-0 (>= 2.0.12)
+  Depends: libseccomp2 (>= 0.0.0~20120605)
+  Depends: libseccomp2 (>= 2.3.1)
+  Depends: libseccomp2 (>= 2.4.1)
+  Depends: libseccomp2 (>= 2.4.2)
+  Depends: libsecret-1-0 (>= 0.7)
+  Depends: libsecret-common
+  Depends: libselinux1 (>= 3.1~)
+  Depends: libselinux1 (>= 3.5)
+  Depends: libsemanage2 (>= 2.0.32)
+  Depends: libsemanage-common (>= 3.5-1)
+  Depends: libsensors5 (>= 1:3.5.0)
+  Depends: libsensors-config
+  Depends: libsepol2 (>= 3.5)
+  Depends: libserd-0-0 (>= 0.30)
+  Depends: libserd-0-0 (>= 0.30.2)
+  Depends: libshine3 (>= 3.1.0)
+  Depends: libshout3 (>= 2.4.6)
+  Depends: libsidplay1v5
+  Depends: libslang2 (>= 2.2.4)
+  Depends: libsm6
+  Depends: libsmbclient (>= 2:4.0.3+dfsg1)
+  Depends: libsnappy1v5 (>= 1.1.10)
+  Depends: libsndfile1 (>= 1.0.20)
+  Depends: libsndio7.0 (>= 1.8.1)
+  Depends: libsnmp40 (>= 5.9.3+dfsg)
+  Depends: libsnmp-base
+  Depends: libsodium23 (>= 1.0.3)
+  Depends: libsord-0-0 (>= 0.12.0~dfsg0)
+  Depends: libsord-0-0 (>= 0.14.0~dfsg0)
+  Depends: libsoundtouch1 (>= 2.0.0)
+  Depends: libsoup2.4-1 (>= 2.48)
+  Depends: libsoup2.4-1 (>= 2.69.90)
+  Depends: libsoup2.4-1 (= 2.74.3-1)
+  Depends: libsoup2.4-common
+  Depends: libsoup-3.0-0
+  Depends: libsoup-3.0-0 (>= 3.0.3)
+  Depends: libsoup-3.0-0 (>= 3.1.3)
+  Depends: libsoup-3.0-0 (= 3.4.3-1)
+  Depends: libsoup-3.0-common
+  Depends: libsoup-gnome2.4-1 (= 2.74.3-1)
+  Depends: libsoxr0 (>= 0.1.0)
+  Depends: libspa-0.2-modules (= 1.0.3-100pika1)
+  Depends: libspandsp2 (>= 0.0.6~pre18)
+  Depends: libspeex1 (>= 1.2~)
+  Depends: libspeex1 (>= 1.2~beta3-1)
+  Depends: libspeexdsp1 (>= 1.2.1)
+  Depends: libsqlite3-0 (>= 3.36.0)
+  Depends: libsqlite3-0 (>= 3.5.9)
+  Depends: libsqlite3-0 (>= 3.7.15)
+  Depends: libsratom-0-0 (>= 0.4.6~dfsg0)
+  Depends: libsrt1.5-gnutls (>= 1.5.2)
+  Depends: libsrtp2-1 (>= 2.0.0+20170516)
+  Depends: libssh-4 (>= 0.9.0)
+  Depends: libssh-gcrypt-4 (>= 0.8.0)
+  Depends: libssl3
+  Depends: libssl3 (>= 3.0.0)
+  Depends: libssl3 (>= 3.0.0~~alpha1)
+  Depends: libssl3 (>= 3.0.9)
+  Depends: libstdc++6 (>= 11)
+  Depends: libstdc++6 (>= 12)
+  Depends: libstdc++6 (>= 13)
+  Depends: libstdc++6 (>= 13.1)
+  Depends: libstdc++6 (>= 4.1.1)
+  Depends: libstdc++6 (>= 4.2.1)
+  Depends: libstdc++6 (>= 5)
+  Depends: libstdc++6 (>= 5.2)
+  Depends: libstdc++6 (>= 6)
+  Depends: libsvtav1enc1 (>= 1.6.0+dfsg)
+  Depends: libswresample4 (>= 11:6.0.0)
+  Depends: libswresample4 (>= 7:6.0)
+  Depends: libswresample4ff5 (>= 7:5.0)
+  Depends: libswresample4ff5 (>= 7:5.1)
+  Depends: libswscale6 (>= 7:5.0)
+  Depends: libswscale7 (>= 11:6.0.0)
+  Depends: libsystemd0
+  Depends: libsystemd0 (>= 209)
+  Depends: libsystemd0 (>= 213)
+  Depends: libsystemd0 (>= 220)
+  Depends: libsystemd0 (>= 221)
+  Depends: libsystemd0 (>= 243)
+  Depends: libsystemd0 (= 253.5-1ubuntu6.1)
+  Depends: libsystemd-shared (= 253.5-1ubuntu6.1)
+  Depends: libtag1v5 (>= 1.9.1-2.2~)
+  Depends: libtag1v5-vanilla (= 1.13.1-1)
+  Depends: libtalloc2 (>= 2.4.0)
+  Depends: libtalloc2 (>= 2.4.0~)
+  Depends: libtalloc2 (>= 2.4.1~)
+  Depends: libtasn1-6 (>= 4.14)
+  Depends: libtcl8.6 (>= 8.6.0)
+  Depends: libtcl8.6 (>= 8.6.0-2)
+  Depends: libtdb1 (>= 1.2.7+git20101214)
+  Depends: libtdb1 (>= 1.4.8~)
+  Depends: libtesseract5 (>= 5.3.0)
+  Depends: libtevent0 (>= 0.14.0~)
+  Depends: libtevent0 (>= 0.15.0)
+  Depends: libtext-iconv-perl
+  Depends: libtextwrap1 (>= 0.1)
+  Depends: libthai0 (>= 0.1.25)
+  Depends: libthai-data (>= 0.1.10)
+  Depends: libtheora0 (>= 0.0.0.alpha7.dfsg)
+  Depends: libtheora0 (>= 1.0)
+  Depends: libtheora0 (>= 1.1)
+  Depends: libtiff6 (>= 4.0.3)
+  Depends: libtinfo6 (>= 6)
+  Depends: libtinfo6 (= 6.4+20230625-2)
+  Depends: libtirpc3 (>= 1.0.2)
+  Depends: libtirpc-common (>= 1.3.3+ds-1)
+  Depends: libtk8.6 (>= 8.6.0)
+  Depends: libtwolame0 (>= 0.3.10)
+  Depends: libudev1
+  Depends: libudev1 (>= 183)
+  Depends: libudev1 (>= 196)
+  Depends: libudev1 (>= 251)
+  Depends: libudev1 (= 253.5-1ubuntu6.1)
+  Depends: libudfread0 (>= 1.1.1)
+  Depends: libunistring2 (>= 0.9.7)
+  Depends: libunwind8
+  Depends: libusb-1.0-0 (>= 2:1.0.21)
+  Depends: libusb-1.0-0 (>= 2:1.0.22)
+  Depends: libusb-1.0-0 (>= 2:1.0.8)
+  Depends: libusb-1.0-0 (>= 2:1.0.9)
+  Depends: libusbmuxd6 (>= 2.0.2)
+  Depends: libutempter0 (>= 1.1.5)
+  Depends: libuuid1 (>= 2.16)
+  Depends: libuuid1 (>= 2.20.1)
+  Depends: libv4l-0 (>= 0.5.0)
+  Depends: libv4lconvert0 (= 1.24.1-3)
+  Depends: libva2 (>= 1.7.3)
+  Depends: libva2 (>= 2.1.0)
+  Depends: libva2 (>= 2.10.0)
+  Depends: libva2 (>= 2.17)
+  Depends: libva2 (>= 2.2.0)
+  Depends: libva2 (<< 2.20.0.1)
+  Depends: libva2 (>= 2.9.0)
+  Depends: libva-driver-abi-1.19
+  Depends: libva-driver-abi-1.20
+  Depends: libva-drm2 (>= 1.3)
+  Depends: libva-drm2 (>= 1.8)
+  Depends: libva-x11-2 (>= 1.3)
+  Depends: libvdpau1
+  Depends: libvdpau1 (>= 0.2)
+  Depends: libvidstab1.1
+  Depends: libvisual-0.4-0 (>= 0.4.0)
+  Depends: libvo-aacenc0 (>= 0.1.3)
+  Depends: libvo-amrwbenc0 (>= 0.1.3)
+  Depends: libvorbis0a (>= 1.1.2)
+  Depends: libvorbis0a (>= 1.2.3)
+  Depends: libvorbis0a (>= 1.3.1)
+  Depends: libvorbis0a (= 1.3.7-1build2)
+  Depends: libvorbisenc2 (>= 1.1.2)
+  Depends: libvorbisenc2 (>= 1.3.1)
+  Depends: libvorbisfile3 (>= 1.1.2)
+  Depends: libvpx7 (>= 1.12.0)
+  Depends: libvte-2.91-0 (>= 0.71.92)
+  Depends: libvte-2.91-common (= 0.74.0-2)
+  Depends: libvulkan1
+  Depends: libvulkan1 (>= 1.2.131.2)
+  Depends: libvulkan1 (>= 1.3.231.0~rc1)
+  Depends: libwacom9 (>= 2.0.0)
+  Depends: libwacom-common (= 2.7.0-1)
+  Depends: libwavpack1 (>= 4.60)
+  Depends: libwayland-client0 (>= 1.2.0)
+  Depends: libwayland-client0 (>= 1.20.0)
+  Depends: libwayland-cursor0 (>= 1.11)
+  Depends: libwayland-cursor0 (>= 1.14.91)
+  Depends: libwayland-cursor0 (>= 1.18)
+  Depends: libwayland-cursor0 (>= 1.8.1)
+  Depends: libwayland-egl1 (>= 1.15.0)
+  Depends: libwayland-egl1 (>= 1.18)
+  Depends: libwayland-server0 (>= 1.0.2)
+  Depends: libwayland-server0 (>= 1.15.0)
+  Depends: libwayland-server0 (>= 1.2.0)
+  Depends: libwbclient0 (>= 2:4.5.0+dfsg)
+  Depends: libwebkit2gtk-4.0-37 (= 2.44.0-0ubuntu0.23.10.1)
+  Depends: libwebkit2gtk-4.1-0 (= 2.44.0-0ubuntu0.23.10.1)
+  Depends: libwebp7 (>= 1.2.4)
+  Depends: libwebpdemux2 (>= 1.2.4)
+  Depends: libwebpmux3 (>= 1.2.4)
+  Depends: libwebrtc-audio-processing1
+  Depends: libwildmidi2 (>= 0.2.3)
+  Depends: libwoff1 (>= 1.0.0)
+  Depends: libwrap0 (>= 7.6-4~)
+  Depends: libx11-6
+  Depends: libx11-6 (>= 2:1.2.99.901)
+  Depends: libx11-6 (>= 2:1.4.99.1)
+  Depends: libx11-6 (>= 2:1.6.0)
+  Depends: libx11-6 (= 2:1.8.6-1ubuntu1)
+  Depends: libx11-data
+  Depends: libx11-dev
+  Depends: libx11-xcb1 (>= 2:1.7.5)
+  Depends: libx11-xcb1 (>= 2:1.8.6)
+  Depends: libx264-164 (>= 2:0.164.3095+gitbaee400)
+  Depends: libx265-199 (>= 3.5)
+  Depends: libxatracker2-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: libxau6 (>= 1:1.0.9)
+  Depends: libxau6 (= 1:1.0.9-1build5)
+  Depends: libxau-dev
+  Depends: libxau-dev (>= 1:1.0.0-1)
+  Depends: libxaw7 (>= 2:1.0.14)
+  Depends: libxcb1
+  Depends: libxcb1 (>= 1.11.1)
+  Depends: libxcb1 (>= 1.12)
+  Depends: libxcb1 (= 1.15-1)
+  Depends: libxcb1 (>= 1.6)
+  Depends: libxcb1 (>= 1.8)
+  Depends: libxcb1 (>= 1.9.2)
+  Depends: libxcb1-dev
+  Depends: libxcb-dri2-0 (>= 1.8)
+  Depends: libxcb-dri3-0
+  Depends: libxcb-dri3-0 (>= 1.13)
+  Depends: libxcb-glx0
+  Depends: libxcb-glx0 (>= 1.8)
+  Depends: libxcb-icccm4 (>= 0.4.1)
+  Depends: libxcb-image0 (>= 0.2.1)
+  Depends: libxcb-keysyms1 (>= 0.4.0)
+  Depends: libxcb-present0
+  Depends: libxcb-randr0
+  Depends: libxcb-randr0 (>= 1.13)
+  Depends: libxcb-randr0 (>= 1.3)
+  Depends: libxcb-record0
+  Depends: libxcb-render0
+  Depends: libxcb-render-util0
+  Depends: libxcb-res0 (>= 1.10)
+  Depends: libxcb-shape0
+  Depends: libxcb-shm0
+  Depends: libxcb-shm0 (>= 1.10)
+  Depends: libxcb-sync1
+  Depends: libxcb-util1 (>= 0.4.0)
+  Depends: libxcb-xfixes0
+  Depends: libxcb-xinerama0
+  Depends: libxcb-xinput0 (>= 1.15)
+  Depends: libxcb-xkb1
+  Depends: libxcomposite1 (>= 1:0.4.5)
+  Depends: libxcursor1 (>> 1.1.2)
+  Depends: libxdamage1 (>= 1:1.1)
+  Depends: libxdmcp6
+  Depends: libxdmcp6 (= 1:1.1.3-0ubuntu5)
+  Depends: libxdmcp-dev
+  Depends: libxdmcp-dev (>= 1:1.0.0-1)
+  Depends: libxext6
+  Depends: libxfixes3
+  Depends: libxfixes3 (>= 1:5.0)
+  Depends: libxft2 (>> 2.1.1)
+  Depends: libxi6
+  Depends: libxi6 (>= 2:1.2.99.4)
+  Depends: libxi6 (>= 2:1.5.99.2)
+  Depends: libxinerama1 (>= 2:1.1.4)
+  Depends: libxkbcommon0 (>= 0.5.0)
+  Depends: libxkbcommon0 (= 1.5.0-1)
+  Depends: libxkbcommon-x11-0 (>= 0.5.0)
+  Depends: libxkbregistry0 (>= 1.0.0)
+  Depends: libxml2 (>= 2.7.4)
+  Depends: libxml2 (>= 2.9.0)
+  Depends: libxmu6 (>= 2:1.1.3)
+  Depends: libxmuu1 (>= 2:1.1.3)
+  Depends: libxpm4
+  Depends: libxrandr2 (>= 2:1.2.99.3)
+  Depends: libxrandr2 (>= 2:1.5.0)
+  Depends: libxrender1
+  Depends: libxshmfence1
+  Depends: libxslt1.1 (>= 1.1.25)
+  Depends: libxslt1.1 (>= 1.1.26)
+  Depends: libxss1
+  Depends: libxt6
+  Depends: libxv1
+  Depends: libxvidcore4 (>= 1.2.2)
+  Depends: libxxf86vm1
+  Depends: libxxhash0 (>= 0.7.1)
+  Depends: libyaml-0-2 (>= 0.2.2~)
+  Depends: libzbar0 (>= 0.10)
+  Depends: libzimg2 (>= 0.3.1)
+  Depends: libzmq5 (>= 3.2.3+dfsg)
+  Depends: libzmq5 (>= 4.0.1+dfsg)
+  Depends: libzstd1 (>= 1.4.0)
+  Depends: libzstd1 (>= 1.5.2)
+  Depends: libzstd1 (>= 1.5.5)
+  Depends: libzvbi0 (>= 0.2.35)
+  Depends: libzvbi-common (= 0.2.41-2)
+  Depends: logind
+  Depends: lsb-base (>= 1.3-9ubuntu2)
+  Depends: lsb-base (>= 3.2-13)
+  Depends: lsb-release
+  Depends: mailcap
+  Depends: media-types
+  Depends: mesa-common-git-dev (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: mesa-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: mesa-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: mesa-utils
+  Depends: mesa-utils-bin
+  Depends: mesa-va-drivers-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: mesa-vdpau-drivers-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: mesa-vulkan-drivers-git (= 24.1-100pika20240403.git.2.52549327115)
+  Depends: mime-support
+  Depends: mount
+  Depends: mount (>= 2.19.1)
+  Depends: myspell-dictionary
+  Depends: ocl-icd-libopencl1 (>= 1.0)
+  Depends: openssl (>= 1.1.1)
+  Depends: p7zip
+  Depends: passwd
+  Depends: pci.ids (>= 0.0~2019.11.10-2)
+  Depends: perl
+  Depends: perl:any
+  Depends: perlapi-5.36.0
+  Depends: perl-base (>= 5.36.0-1)
+  Depends: perl-base (>= 5.36.0-4ubuntu2)
+  Depends: perl-base (= 5.36.0-9ubuntu1.1)
+  Depends: perl-modules-5.36 (>= 5.36.0-9ubuntu1.1)
+  Depends: pinentry
+  Depends: pinentry-curses
+  Depends: pkexec
+  Depends: pkexec (= 123-1)
+  Depends: policykit-1
+  Depends: polkitd (= 123-1)
+  Depends: procps
+  Depends: psmisc
+  Depends: python3
+  Depends: python3.11 (>= 3.11.4-1~)
+  Depends: python3.11-minimal (= 3.11.6-3)
+  Depends: python3 (>= 3.11~)
+  Depends: python3 (<< 3.13)
+  Depends: python3 (>= 3.4)
+  Depends: python3:any
+  Depends: python3-apt
+  Depends: python3-cairo (>= 1.11.1)
+  Depends: python3-certifi
+  Depends: python3-chardet (>= 3.0.2)
+  Depends: python3-dbus
+  Depends: python3-distro
+  Depends: python3-gi
+  Depends: python3-gi (= 3.46.0-1)
+  Depends: python3-gi-cairo
+  Depends: python3-idna
+  Depends: python3-lxml
+  Depends: python3-magic
+  Depends: python3-minimal:any
+  Depends: python3-pil
+  Depends: python3-pil (= 10.0.0-1ubuntu0.2)
+  Depends: python3-pil.imagetk
+  Depends: python3-pkg-resources
+  Depends: python3-requests
+  Depends: python3-setproctitle
+  Depends: python3-six
+  Depends: python3-tk (>= 3.4.1-2)
+  Depends: python3-urllib3 (>= 1.21.1)
+  Depends: python3-yaml
+  Depends: python-apt-common
+  Depends: qtbase-abi-5-15-10
+  Depends: qtdeclarative-abi-5-15-10
+  Depends: qtwayland-client-abi-5-15-10
+  Depends: readline-common
+  Depends: realpath
+  Depends: samba-libs (= 2:4.18.6+dfsg-1ubuntu2.1)
+  Depends: sed (>= 4)
+  Depends: sed (>= 4.1.2-8)
+  Depends: session-migration
+  Depends: sf3-soundfont-gm
+  Depends: sgml-base (>= 1.28)
+  Depends: shared-mime-info
+  Depends: shared-mime-info (>= 1.8~)
+  Depends: sound-theme-freedesktop
+  Depends: systemd
+  Depends: systemd (= 253.5-1ubuntu6.1)
+  Depends: systemd-dev (>= 253.5-1ubuntu6.1)
+  Depends: systemd-sysusers
+  Depends: systemd-sysv
+  Depends: systemd-sysv (>= 230)
+  Depends: sysvinit-utils (>= 3.05-4~)
+  Depends: tar (>= 1.28-1)
+  Depends: timgm6mb-soundfont (>= 1.3-3~)
+  Depends: tk8.6-blt2.5 (>= 2.5.3)
+  Depends: tk8.6-blt2.5 (= 2.5.3+dfsg-4.1build2)
+  Depends: tzdata
+  Depends: ubuntu-keyring
+  Depends: ubuntu-mono
+  Depends: udev
+  Depends: unzip
+  Depends: vulkan-tools
+  Depends: wine-devel (= 9.11~mantic-1)
+  Depends: wine-devel-amd64 (= 9.11~mantic-1)
+  Depends: wine-devel-i386 (= 9.11~mantic-1)
+  Depends: x11-common
+  Depends: x11proto-core-dev
+  Depends: x11proto-dev
+  Depends: x11proto-dev (>= 2019.2-1)
+  Depends: x11-xserver-utils
+  Depends: xbitmaps
+  Depends: xdg-dbus-proxy
+  Depends: xdg-desktop-portal
+  Depends: xdg-desktop-portal (>= 1.14.0)
+  Depends: xdg-desktop-portal-gtk
+  Depends: xdg-desktop-portal-kde
+  Depends: xfonts-encodings
+  Depends: xfonts-utils
+  Depends: xkb-data
+  Depends: xml-core (>= 0.14)
+  Depends: xorg-sgml-doctools (>= 1:1.5)
+  Depends: xterm
+  Depends: xtrans-dev
+  Depends: xz-utils
+  Depends: zenity
+  Depends: zenity-common (>= 3.44.2-1)
+  Depends: zlib1g (>= 1:1.1.4)
+  Depends: zlib1g (>= 1:1.2.0)
+  Depends: zlib1g (>= 1:1.2.0.2)
+  Depends: zlib1g (>= 1:1.2.11)
+  Depends: zlib1g (>= 1:1.2.2)
+  Depends: zlib1g (>= 1:1.2.2.3)
+  Depends: zlib1g (>= 1:1.2.3.3)
+dictionaries-common
+dirmngr
+distro-info-data
+dpkg
+emacsen-common
+ffmpeg5
+ffmpeg
+file
+fluid-soundfont-gs
+fontconfig
+fontconfig-config
+fonts-croscore
+fonts-dejavu-core
+fonts-dejavu-mono
+fonts-freefont-otf
+fonts-freefont-ttf
+fonts-liberation
+fonts-noto-core
+fonts-noto-mono
+fonts-texgyre
+fonts-urw-base35
+fuse3
+gamin
+gcc-13-base
+gir1.2-atk-1.0
+gir1.2-freedesktop
+gir1.2-gdkpixbuf-2.0
+gir1.2-glib-2.0
+gir1.2-gtk-3.0
+gir1.2-harfbuzz-0.0
+gir1.2-javascriptcoregtk-4.0
+gir1.2-javascriptcoregtk-4.1
+gir1.2-notify-0.7
+gir1.2-pango-1.0
+gir1.2-soup-2.4
+gir1.2-soup-3.0
+gir1.2-webkit2-4.0
+gir1.2-webkit2-4.1
+glib-networking
+glib-networking-common
+glib-networking-services
+gnome-terminal
+gnome-terminal-data
+gnupg
+gnupg-l10n
+gnupg-utils
+gpg
+gpg-agent
+gpgconf
+gpgsm
+gpgv
+gpgv1
+gpgv2
+gpg-wks-client
+gpg-wks-server
+gsettings-backend
+gsettings-desktop-schemas
+gstreamer1.0-libav
+gstreamer1.0-plugins-bad
+gstreamer1.0-plugins-base
+gstreamer1.0-plugins-good
+gstreamer1.0-plugins-ugly
+gtk-update-icon-cache
+hicolor-icon-theme
+humanity-icon-theme
+hunspell-dictionary
+hunspell-en-us
+i965-va-driver
+init-system-helpers
+install-info
+intel-media-va-driver-non-free
+iso-codes
+ispell-dictionary
+kded5
+kio
+konsole
+konsole-kpart
+kpackagetool5
+kwayland-data
+liba52-0.7.4
+libaa1
+libacl1
+libaom3
+libapparmor1
+libapt-pkg6.0
+libarchive13
+libargon2-1
+libaribb24-0
+libasound2
+libasound2-data
+libasound2-plugins
+libaspell15
+libass9
+libassuan0
+libasyncns0
+libatk1.0-0
+libatk-bridge2.0-0
+libatomic1
+libatspi2.0-0
+libattr1
+libaudit1
+libaudit-common
+libavahi-client3
+libavahi-common3
+libavahi-common-data
+libavc1394-0
+libavcodec59
+libavcodec59
+libavcodec60
+libavcodec60
+libavdevice59
+libavdevice59
+libavdevice60
+libavdevice60
+libavfilter8
+libavfilter8
+libavfilter9
+libavfilter9
+libavformat59
+libavformat59
+libavformat60
+libavformat60
+libavtp0
+libavutil57
+libavutil57
+libavutil58
+libavutil58
+libblkid1
+libbluray2
+libbrotli1
+libbs2b0
+libbsd0
+libbz2-1.0
+libc6
+libcaca0
+libcairo2
+libcairo-gobject2
+libcanberra0
+libcap2
+libcap2-bin
+libcap-ng0
+libcdio19
+libcdio-cdda2
+libcdio-paranoia2
+libcdparanoia0
+libchromaprint1
+libcjson1
+libcodec2-1.2
+libcolord2
+libcom-err2
+libcrypt1
+libcryptsetup12
+libcups2
+libcurl3-gnutls
+libcurl4
+libd3dadapter9-mesa-git
+libdatrie1
+libdav1d6
+libdb5.3
+libdbus-1-3
+libdbusmenu-qt5-2
+libdc1394-25
+libdca0
+libdconf1
+libde265-0
+libdebconfclient0
+libdebian-installer4
+libdecor-0-0
+libdeflate0
+libdevmapper1.02.1
+libdouble-conversion3
+libdrm2
+libdrm-amdgpu1
+libdrm-common
+libdrm-dev
+libdrm-intel1
+libdrm-nouveau2
+libdrm-radeon1
+libduktape207
+libdv4
+libdvdnav4
+libdvdread8
+libdw1
+libedit2
+libegl1
+libegl1-mesa-git
+libegl1-mesa-git-dev
+libegl-dev
+libegl-mesa0
+libegl-mesa0-git
+libelf1
+libenchant-2-2
+libepoxy0
+libevdev2
+libexif12
+libexpat1
+libfaad2
+libfam0
+libfdisk1
+libfdk-aac2
+libffi8
+libfftw3-double3
+libflac12
+libflite1
+libfluidsynth3
+libfontconfig1
+libfontenc1
+libfreetype6
+libfribidi0
+libfuse3-3
+libgamin0
+libgbm1
+libgbm1-git
+libgbm-git-dev
+libgcc-s1
+libgcrypt20
+libgd3
+libgdbm6
+libgdbm-compat4
+libgdk-pixbuf-2.0-0
+libgdk-pixbuf2.0-common
+libgif7
+libgirepository-1.0-1
+libgirepository-1.0-1-with-libffi8
+libgl1
+libgl1-mesa-dri
+libgl1-mesa-dri-git
+libgl1-mesa-glx-git
+libglapi-mesa
+libglapi-mesa-git
+libgl-dev
+libgles1
+libgles2
+libgles2-mesa-git
+libgles-dev
+libglib2.0-0
+libglvnd0
+libglvnd-core-dev
+libglvnd-dev
+libglx0
+libglx-dev
+libglx-mesa0
+libglx-mesa0-git
+libgme0
+libgmp10
+libgnutls30
+libgomp1
+libgpg-error0
+libgpgme11
+libgpgmepp6
+libgphoto2-6
+libgphoto2-port12
+libgpm2
+libgraphite2-3
+libgsm1
+libgssapi-krb5-2
+libgssdp-1.6-0
+libgstreamer1.0-0
+libgstreamer-gl1.0-0
+libgstreamer-plugins-bad1.0-0
+libgstreamer-plugins-base1.0-0
+libgstreamer-plugins-good1.0-0
+libgtk-3-0
+libgtk-3-common
+libgudev-1.0-0
+libgupnp-1.6-0
+libgupnp-igd-1.6-0
+libhandy-1-0
+libharfbuzz0b
+libharfbuzz-icu0
+libhogweed6
+libhunspell-1.7-0
+libhyphen0
+libice6
+libicu72
+libidn2-0
+libiec61883-0
+libieee1284-3
+libigdgmm12
+libimagequant0
+libimath-3-1-29
+libimobiledevice6
+libinput10
+libinput-bin
+libinstpatch-1.0-2
+libip4tc2
+libisl23
+libjack-0.125
+libjack-jackd2-0
+libjansson4
+libjavascriptcoregtk-4.0-18
+libjavascriptcoregtk-4.1-0
+libjbig0
+libjpeg8
+libjpeg-turbo8
+libjson-c5
+libjson-glib-1.0-0
+libjson-glib-1.0-common
+libk5crypto3
+libkate1
+libkeyutils1
+libkf5archive5
+libkf5archive-data
+libkf5attica5
+libkf5authcore5
+libkf5auth-data
+libkf5bookmarks5
+libkf5bookmarks-data
+libkf5codecs5
+libkf5codecs-data
+libkf5completion5
+libkf5completion-data
+libkf5configcore5
+libkf5config-data
+libkf5configgui5
+libkf5configwidgets5
+libkf5configwidgets-data
+libkf5coreaddons5
+libkf5coreaddons-data
+libkf5crash5
+libkf5dbusaddons5
+libkf5dbusaddons-data
+libkf5doctools5
+libkf5globalaccel5
+libkf5globalaccel-bin
+libkf5globalaccel-data
+libkf5globalaccelprivate5
+libkf5guiaddons5
+libkf5guiaddons-bin
+libkf5guiaddons-data
+libkf5i18n5
+libkf5i18n-data
+libkf5iconthemes5
+libkf5iconthemes-data
+libkf5itemviews5
+libkf5itemviews-data
+libkf5jobwidgets5
+libkf5jobwidgets-data
+libkf5kiocore5
+libkf5kiofilewidgets5
+libkf5kiogui5
+libkf5kiontlm5
+libkf5kiowidgets5
+libkf5newstuff5
+libkf5newstuffcore5
+libkf5newstuff-data
+libkf5newstuffwidgets5
+libkf5notifications5
+libkf5notifications-data
+libkf5notifyconfig5
+libkf5notifyconfig-data
+libkf5package5
+libkf5package-data
+libkf5parts5
+libkf5parts-data
+libkf5pty5
+libkf5pty-data
+libkf5service5
+libkf5service-bin
+libkf5service-data
+libkf5solid5
+libkf5solid5-data
+libkf5sonnet5-data
+libkf5sonnetcore5
+libkf5sonnetui5
+libkf5syndication5abi1
+libkf5textwidgets5
+libkf5textwidgets-data
+libkf5wallet5
+libkf5wallet-bin
+libkf5wallet-data
+libkf5waylandclient5
+libkf5widgetsaddons5
+libkf5widgetsaddons-data
+libkf5windowsystem5
+libkf5windowsystem-data
+libkf5xmlgui5
+libkf5xmlgui-data
+libkmod2
+libkrb5-3
+libkrb5support0
+libksba8
+libkwalletbackend5-5
+liblcms2-2
+libldacbt-enc2
+libldap2
+libldb2
+liblept5
+liblerc4
+liblilv-0-0
+libllvm15
+libllvm17
+liblmdb0
+libltdl7
+liblz4-1
+liblzma5
+libmagic1
+libmagic-mgc
+libmanette-0.2-0
+libmbedcrypto7
+libmd0
+libmd4c0
+libmesa-git
+libmfx1
+libmjpegutils-2.1-0
+libmodplug1
+libmount1
+libmp3lame0
+libmpc3
+libmpcdec6
+libmpeg2-4
+libmpeg2encpp-2.1-0
+libmpfr6
+libmpg123-0
+libmplex2-2.1-0
+libmspack0
+libmtdev1
+libmysofa1
+libncurses
+libncurses5
+libncurses6
+libncursesw6
+libnettle8
+libnewt0.52
+libnghttp2-14
+libnice10
+libnorm1
+libnotify4
+libnppc12
+libnppicc12
+libnppidei12
+libnppif12
+libnppig12
+libnpth0
+libnsl2
+libnspr4
+libnss3
+libnuma1
+libnvidia-common-555
+libnvidia-gl-555
+libodbc2
+libogg0
+libopenal1
+libopenal-data
+libopencl1
+libopencl-1.2-1
+libopencore-amrnb0
+libopencore-amrwb0
+libopenexr-3-1-30
+libopengl0
+libopengl-dev
+libopenh264-7
+libopenjp2-7
+libopenmpt0
+libopus0
+liborc-0.4-0
+libosmesa6-git
+libp11-kit0
+libpam0g
+libpam-modules
+libpam-modules-bin
+libpam-runtime
+libpam-systemd
+libpango-1.0-0
+libpangocairo-1.0-0
+libpangoft2-1.0-0
+libpangoxft-1.0-0
+libpcap0.8
+libpci3
+libpciaccess0
+libpciaccess-dev
+libpcre2-16-0
+libpcre2-8-0
+libpcsclite1
+libperl5.36
+libpgm-5.3-0
+libpipewire-0.3-0
+libpixman-1-0
+libplacebo292
+libplist3
+libpng16-16
+libpolkit-agent-1-0
+libpolkit-gobject-1-0
+libpolkit-qt5-1-1
+libpoppler130
+libpoppler-glib8
+libpopt0
+libpostproc56
+libpostproc56
+libpostproc57
+libpostproc57
+libproc2-0
+libproxy1v5
+libpsl5
+libpthread-stubs0-dev
+libpulse0
+libpython3.11-minimal
+libpython3.11-stdlib
+libpython3-stdlib
+libqca-qt5-2
+libqt5core5a
+libqt5dbus5
+libqt5gui5
+libqt5gui5-gles
+libqt5multimedia5
+libqt5network5
+libqt5printsupport5
+libqt5qml5
+libqt5qmlmodels5
+libqt5quick5
+libqt5quick5-gles
+libqt5svg5
+libqt5texttospeech5
+libqt5waylandclient5
+libqt5widgets5
+libqt5x11extras5
+libqt5xml5
+librabbitmq4
+libraqm0
+libraw1394-11
+libreadline8
+librist4
+librsvg2-2
+librtmp1
+librubberband2
+libsamplerate0
+libsane1
+libsane-common
+libsasl2-2
+libsasl2-modules-db
+libsbc1
+libsdl2-2.0-0
+libseccomp2
+libsecret-1-0
+libsecret-common
+libselinux1
+libsemanage2
+libsemanage-common
+libsensors5
+libsensors-config
+libsepol2
+libserd-0-0
+libshine3
+libshout3
+libsidplay1v5
+libslang2
+libsm6
+libsmartcols1
+libsmbclient
+libsnappy1v5
+libsndfile1
+libsndio7.0
+libsnmp40
+libsnmp-base
+libsodium23
+libsord-0-0
+libsoundtouch1
+libsoup2.4-1
+libsoup2.4-common
+libsoup-3.0-0
+libsoup-3.0-common
+libsoup-gnome2.4-1
+libsoxr0
+libspa-0.2-modules
+libspandsp2
+libspeex1
+libspeexdsp1
+libsqlite3-0
+libsratom-0-0
+libsrt1.5-gnutls
+libsrtp2-1
+libssh-4
+libssh-gcrypt-4
+libssl3
+libstdc++6
+libsvtav1enc1
+libswresample4
+libswresample4ff5
+libswresample4ff5
+libswresample4
+libswscale6
+libswscale6
+libswscale7
+libswscale7
+libsystemd0
+libsystemd-shared
+libtag1v5
+libtag1v5-vanilla
+libtalloc2
+libtasn1-6
+libtcl8.6
+libtdb1
+libtesseract5
+libtevent0
+libtext-iconv-perl
+libtextwrap1
+libthai0
+libthai-data
+libtheora0
+libtiff6
+libtinfo6
+libtirpc3
+libtirpc-common
+libtk8.6
+libtwolame0
+libudev1
+libudfread0
+libunistring2
+libunwind8
+libusb-1.0-0
+libusbmuxd6
+libutempter0
+libuuid1
+libv4l-0
+libv4lconvert0
+libva2
+libva-driver-abi-1.19
+libva-driver-abi-1.20
+libva-drm2
+libva-x11-2
+libvdpau1
+libvidstab1.1
+libvisual-0.4-0
+libvo-aacenc0
+libvo-amrwbenc0
+libvorbis0a
+libvorbisenc2
+libvorbisfile3
+libvpx7
+libvte-2.91-0
+libvte-2.91-common
+libvulkan1
+libvulkan1
+libwacom9
+libwacom-common
+libwavpack1
+libwayland-client0
+libwayland-cursor0
+libwayland-egl1
+libwayland-server0
+libwbclient0
+libwebkit2gtk-4.0-37
+libwebkit2gtk-4.1-0
+libwebp7
+libwebpdemux2
+libwebpmux3
+libwebrtc-audio-processing1
+libwildmidi2
+libwoff1
+libwrap0
+libx11-6
+libx11-data
+libx11-dev
+libx11-xcb1
+libx264-164
+libx265-199
+libxatracker2-git
+libxau6
+libxau-dev
+libxaw7
+libxcb1
+libxcb1-dev
+libxcb-dri2-0
+libxcb-dri3-0
+libxcb-glx0
+libxcb-icccm4
+libxcb-image0
+libxcb-keysyms1
+libxcb-present0
+libxcb-randr0
+libxcb-record0
+libxcb-render0
+libxcb-render-util0
+libxcb-res0
+libxcb-shape0
+libxcb-shm0
+libxcb-sync1
+libxcb-util1
+libxcb-xfixes0
+libxcb-xinerama0
+libxcb-xinput0
+libxcb-xkb1
+libxcomposite1
+libxcursor1
+libxdamage1
+libxdmcp6
+libxdmcp-dev
+libxext6
+libxfixes3
+libxft2
+libxi6
+libxinerama1
+libxkbcommon0
+libxkbcommon-x11-0
+libxkbregistry0
+libxml2
+libxmu6
+libxmuu1
+libxpm4
+libxrandr2
+libxrender1
+libxshmfence1
+libxslt1.1
+libxss1
+libxt6
+libxv1
+libxvidcore4
+libxxf86vm1
+libxxhash0
+libyaml-0-2
+libzbar0
+libzimg2
+libzmq5
+libzstd1
+libzvbi0
+libzvbi-common
+logind
+lsb-base
+lsb-release
+lutris
+mailcap
+mangohud
+media-types
+mesa-common-git-dev
+mesa-git
+mesa-git
+mesa-utils
+mesa-utils-bin
+mesa-va-drivers-git
+mesa-vdpau-drivers-git
+mesa-vulkan-drivers-git
+mime-support
+mount
+myspell-dictionary
+ocl-icd-libopencl1
+openssl
+p7zip
+passwd
+pci.ids
+perl
+perl:any
+perlapi-5.36.0
+perl-base
+perl-modules-5.36
+pinentry
+pinentry-curses
+pkexec
+policykit-1
+polkitd
+  PreDepends: debconf (>= 0.5)
+  PreDepends: debconf-2.0
+  PreDepends: dpkg (>= 1.14.12ubuntu3)
+  PreDepends: dpkg (>= 1.15.7.2)
+  PreDepends: dpkg (>= 1.16.4)
+  PreDepends: dpkg (>= 1.17.0)
+  PreDepends: dpkg (>= 1.17.17)
+  PreDepends: libacl1 (>= 2.2.23)
+  PreDepends: libattr1 (>= 1:2.4.44)
+  PreDepends: libaudit1 (>= 1:2.2.1)
+  PreDepends: libblkid1 (>= 2.17.2)
+  PreDepends: libblkid1 (>= 2.30.2)
+  PreDepends: libbz2-1.0
+  PreDepends: libc6 (>= 2.34)
+  PreDepends: libc6 (>= 2.38)
+  PreDepends: libcap2 (>= 1:2.10)
+  PreDepends: libcrypt1 (>= 1:4.1.0)
+  PreDepends: libcrypt1 (>= 1:4.3.0)
+  PreDepends: libdb5.3
+  PreDepends: libgcrypt20 (>= 1.10.0)
+  PreDepends: libgmp10 (>= 2:6.3.0+dfsg)
+  PreDepends: liblz4-1 (>= 0.0~r122)
+  PreDepends: liblzma5 (>= 5.1.1alpha+20120614)
+  PreDepends: liblzma5 (>= 5.4.0)
+  PreDepends: libmd0 (>= 0.0.0)
+  PreDepends: libmount1 (>= 2.30)
+  PreDepends: libmount1 (>= 2.39.1)
+  PreDepends: libpam0g (>= 1.4.1)
+  PreDepends: libpam-modules-bin (= 1.5.2-6ubuntu1.1)
+  PreDepends: libselinux1 (>= 3.1~)
+  PreDepends: libsmartcols1 (>= 2.33)
+  PreDepends: libssl3 (>= 3.0.0)
+  PreDepends: libzstd1 (>= 1.5.5)
+  PreDepends: python3.11-minimal (>= 3.11.4-1~)
+  PreDepends: python3-minimal (= 3.11.4-5)
+  PreDepends: systemd
+  PreDepends: zlib1g (>= 1:1.1.4)
+procps
+psmisc
+python3
+python3.11
+python3.11-minimal
+python3:any
+python3-apt
+python3-cairo
+python3-certifi
+python3-chardet
+python3-dbus
+python3-distro
+python3-gi
+python3-gi-cairo
+python3-idna
+python3-lxml
+python3-magic
+python3-minimal
+python3-minimal:any
+python3-pil
+python3-pil.imagetk
+python3-pkg-resources
+python3-requests
+python3-setproctitle
+python3-six
+python3-tk
+python3-urllib3
+python3-yaml
+python-apt-common
+qtbase-abi-5-15-10
+qtdeclarative-abi-5-15-10
+qtwayland-client-abi-5-15-10
+readline-common
+realpath
+samba-libs
+sed
+session-migration
+sf3-soundfont-gm
+sgml-base
+shared-mime-info
+sound-theme-freedesktop
+steam-launcher
+systemd
+systemd-dev
+systemd-sysusers
+systemd-sysv
+sysvinit-utils
+tar
+timgm6mb-soundfont
+tk8.6-blt2.5
+tzdata
+ubuntu-keyring
+ubuntu-mono
+udev
+unzip
+vkbasalt
+vulkan-tools
+wine-devel
+wine-devel-amd64
+wine-devel-i386
+winehq-devel
+x11-common
+x11proto-core-dev
+x11proto-dev
+x11-xserver-utils
+xbitmaps
+xdg-dbus-proxy
+xdg-desktop-portal
+xdg-desktop-portal-gtk
+xdg-desktop-portal-kde
+xfonts-encodings
+xfonts-utils
+xkb-data
+xml-core
+xorg-sgml-doctools
+xterm
+xtrans-dev
+xz-utils
+zenity
+zenity-common
+zlib1g
